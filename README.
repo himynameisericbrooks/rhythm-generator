@@ -1,0 +1,27 @@
+This application is a random rhythm generator. The user will make selections about the details of how they want their rhythm and a random rhythm based on their specifications will be generated.
+
+The "selections" page will also have a quick start option for people who don't want to be bothered with making decisions.
+
+
+Selections menu ideas:
+0. Have a basic and advanced version of this so non-nerds don't get scared
+
+1, Time signature - Over 4, 8 and 16 to start, adding other weird ones later
+
+2. # of measures (up to 16) or single note
+
+3. complexity (1 - 10, 1 being 4th notes and 4th note rests, 10 being everything 32nd notes and lower)
+
+4. Rhythm Variance - choose probabilty weight of each type of note
+
+5. Syncopation level - If a note-value "rolled" would cause the next note to start on an off-beat, reroll some percentage of the time based on the syncopation level that the user selected. Different weights will be given to different parts of the beat (exapmle: beat "1" could be given the lowest syncopation score, beat "3" the second lowest, "2" and "4" tied for 3rd, di ("&'s") 4th, ka + mi ("e's","a's"), and the 'e of 2' could be given a )
+
+6. "Notiness" - (1 - 10, 1 being mostly or all rests, 10 being no rests at all)
+
+7. I had another Idea but I can't remember it :/ I was away from my computer when the genius struck, but clearly I'm not a genius all the time so it left me like a fleeting cocaroach
+
+
+Basically, you fill out as much or as little of these as you want, then hit a big ol' button and the internet will pump you a hot rhythm which you can save as a pdf or something?
+
+
+***I also want to do this with chord progressions and melodies as different apps and/or combine all of them into a slammin momba jomba app
